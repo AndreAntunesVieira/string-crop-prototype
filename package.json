@@ -1,12 +1,13 @@
 {
   "name": "string-crop-prototype",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A easy way to reduce a string and add \"...\" in the end, but only if the string is really long.",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
   "scripts": {
+    "build": "node bin/build.js",
     "test": "jest"
   },
   "repository": {
