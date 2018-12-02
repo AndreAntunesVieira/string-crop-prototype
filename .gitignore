@@ -1,0 +1,12 @@
+# NPM
+node_modules
+yarn-error.log
+
+# IntelliJ
+.idea
+
+# NextJs
+.next
+.build
+.env*
+build.tar.gz

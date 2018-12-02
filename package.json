@@ -1,0 +1,33 @@
+{
+  "name": "string-crop-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreantunesvieira/string-crop-prototype.git"
+  },
+  "keywords": [
+    "string",
+    "prototype",
+    "crop"
+  ],
+  "author": "Andre Antunes Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreantunesvieira/string-crop-prototype/issues"
+  },
+  "homepage": "https://github.com/andreantunesvieira/string-crop-prototype#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "fs-extra": "^7.0.1",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3",
+    "uglify-js-es6": "^2.8.9"
+  }
+}
